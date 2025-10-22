@@ -1,0 +1,3 @@
+The code repo contains all the versions of the game, higher the number newer the version is. As today 22/10/25 the lastest version is the 2, in which i implemented movement a different way allowing for multiple icons to be moved.
+
+Next steps are making a better version of multi icon movement and the possibilit of increasing the lenght of the snake. Enjoy :) !
